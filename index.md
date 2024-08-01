@@ -11,7 +11,8 @@ Capture-The-Flag team [FAUST](https://faust.cs.fau.de/) and dived into the world
 of IT security. After my PhD I was first working as an embedded software
 developer for network interfaces at [Vector Informatik](https://www.vector.com)
 and then joined [Secfault Security](https://secfault-security.com/) as a
-Security Consultant.
+Security Consultant. Now, I am working at
+[Exodus Intelligence](https://exodusintel.com/) as a security researcher.
 
 As I have learned so much from the community, I created this website to write
 some blog posts and give the community something back. In particular, I added

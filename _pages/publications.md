@@ -24,6 +24,8 @@ Analysis and Numerics of Two-Phase Flows of Active Liquid Crystals with Willmore
 Doctoral Thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, p. 255 (2021)\
 [[print](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://open.fau.de/items/9983537f-bbea-463e-852f-2370ed0c9b61&ved=2ahUKEwjLtq-6_O6GAxWIm_0HHYD6CCMQFnoECBMQAQ&usg=AOvVaw1_kxa0b96EayUFRca4v_ue)]
 
+### Enjoy some of my simulations
+
 A vesicle flowing through a constriction:\
 ![Alt Text](/assets/images/channel.gif)
 
