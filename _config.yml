@@ -7,7 +7,7 @@
 
 # Site settings
 locale: "en-US"
-title: "Personal Website"
+title: "Dr. Oliver Sieber"
 #title-seperator: "-"
 #email: your-email@example.com
 description: Vulnerability Researcher, Mathematician
@@ -31,7 +31,7 @@ minimal_mistakes_skin: "dark" #"default", "air", "aqua", "contrast", "dark", "di
 
 # Author settings
 author:
-  name: "Dr. Oliver Sieber"
+  # name: "Dr. Oliver Sieber"
   avatar: "assets/images/active_lc_icon.png"
   bio: "Vulnerability Researcher"
   location: "Germany"
