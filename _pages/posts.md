@@ -6,6 +6,9 @@ title: Blog Posts
 permalink: /posts.html
 ---
 
+## 2025
+
+[TFCCTF 2025: Slots (Linux Kernel Pwn)]({% post_url /2025-09-02-slots %})
 
 ## 2024
 
